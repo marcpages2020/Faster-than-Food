@@ -10,19 +10,21 @@ Next to the right fridge there's a trash bin. If you take a drink you didn't wan
 
 You can either use the arrows or WASD to move. 
 
+![Overview](https://github.com/marcpages2020/Faster-than-Food/blob/master/docs/Images/Overview.PNG)
+![Manual](https://github.com/marcpages2020/Faster-than-Food/blob/master/docs/Images/Manual.PNG)
+
 If you need to remember anything you can check the Good Waiter's Manual from the main menu. 
 
 # Credits 
 
 Many of the assets weren't made by me so here I specify where I took them from:
 
-
 - Animations and characters: Mixamo (https://www.mixamo.com)
 - Menu Music (Red Moon): Diego Nava
 - In-Game Music (Upbeat Jazz): Francisco Alvear
 
 - Props: 
-...Food: https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884
-...Chair: https://assetstore.unity.com/packages/3d/props/interior/metal-chair-849
-...Trash: https://assetstore.unity.com/packages/3d/props/exterior/plastic-trash-bins-160771
-...Kitchen Props: https://assetstore.unity.com/packages/3d/props/food-and-kitchen-props-pack-85050
+..[Food](https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884)
+..[Chair](https://assetstore.unity.com/packages/3d/props/interior/metal-chair-849)
+..[Trash](https://assetstore.unity.com/packages/3d/props/exterior/plastic-trash-bins-160771)
+..[Kitchen Props](https://assetstore.unity.com/packages/3d/props/food-and-kitchen-props-pack-85050)
