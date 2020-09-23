@@ -68,8 +68,9 @@ public class Chef : MonoBehaviour
     public void Cook(Food food)
     {
         currentFood = food;
+        cookingTime = food.GetPreparationTime();
+        cookingTimeLeft = cookingTime;
         currentState = State.COOKING;
-        cookingTimeLeft = food.GetPreparationTime();
         animator.SetTrigger("Cook");
         particles.gameObject.SetActive(true);
     }
